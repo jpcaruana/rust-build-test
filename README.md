@@ -3,3 +3,5 @@
 # rust-build-test
 
 see https://github.com/japaric/rust-everywhere
+
+Releases: https://github.com/jpcaruana/rust-build-test/releases
