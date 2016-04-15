@@ -1,0 +1,6 @@
+[package]
+name = "helloworld"
+version = "0.1.0"
+authors = ["Jean-Philippe CARUANA <jp@barreverte.fr>"]
+
+[dependencies]
