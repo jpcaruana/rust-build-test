@@ -115,8 +115,7 @@ deploy:
     # channel to use to produce the release artifacts
     # NOTE make sure you only release *once* per target
     # TODO you may want to pick a different channel
-    #condition: $CHANNEL = stable
-    condition: true
+    condition: $CHANNEL = stable
     tags: true
 
 branches:
