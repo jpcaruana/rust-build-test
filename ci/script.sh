@@ -49,7 +49,7 @@ run_test_suite() {
   cargo test --target $TARGET
 
   # sanity check the file type
-  file target/$TARGET/debug/hello
+  file target/$TARGET/debug/helloworld
 }
 
 main() {
